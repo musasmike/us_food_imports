@@ -1,8 +1,8 @@
-# us_food_imports
+# **U.S.A. Foot Import Dashboard**
 
 
-<video src="/src/assets/us_food_imports_dashboard.mp4" width="320" height="240" controls></video>
+<img src="src/assets/dashboard_pic_1.png">
 
-<video width="320" height="240" controls>
-  <source src="src/assets/us_food_imports_dashboard.mp4" type="video/mp4">
-</video>
+<img src="src/assets/dashboard_pic_2.png">
+
+
