@@ -1,0 +1,197 @@
+Year,Food Volume,Food Category
+2023,9519.7,Beverages
+2022,9765.7,Beverages
+2021,9926.2,Beverages
+2020,8987.8,Beverages
+2019,8487.3,Beverages
+2018,8241.1,Beverages
+2017,8173.9,Beverages
+2016,7762.9,Beverages
+2015,7232.6,Beverages
+2014,6674.1,Beverages
+2013,6346.6,Beverages
+2012,6376.9,Beverages
+2011,6014.6,Beverages
+2010,5789.5,Beverages
+2023,1339,Cocoa and chocolate
+2022,1513.2,Cocoa and chocolate
+2021,1532.5,Cocoa and chocolate
+2020,1391.9,Cocoa and chocolate
+2019,1393.9,Cocoa and chocolate
+2018,1372.8,Cocoa and chocolate
+2017,1453.7,Cocoa and chocolate
+2016,1365.8,Cocoa and chocolate
+2015,1336.7,Cocoa and chocolate
+2014,1295.8,Cocoa and chocolate
+2013,1303.4,Cocoa and chocolate
+2012,1237.3,Cocoa and chocolate
+2011,1312.9,Cocoa and chocolate
+2010,1222.1,Cocoa and chocolate
+2023,2130.8,"Coffee, tea, and spices"
+2022,2413.7,"Coffee, tea, and spices"
+2021,2344.6,"Coffee, tea, and spices"
+2020,2254.6,"Coffee, tea, and spices"
+2019,2371.9,"Coffee, tea, and spices"
+2018,2236.8,"Coffee, tea, and spices"
+2017,2276.2,"Coffee, tea, and spices"
+2016,2235.8,"Coffee, tea, and spices"
+2015,2161,"Coffee, tea, and spices"
+2014,2112.4,"Coffee, tea, and spices"
+2013,2087,"Coffee, tea, and spices"
+2012,2018.8,"Coffee, tea, and spices"
+2011,2015,"Coffee, tea, and spices"
+2010,1894.6,"Coffee, tea, and spices"
+2023,417.1,Dairy
+2022,401.2,Dairy
+2021,370.8,Dairy
+2020,368.4,Dairy
+2019,384.2,Dairy
+2018,364,Dairy
+2017,367,Dairy
+2016,385.2,Dairy
+2015,354.9,Dairy
+2014,295.9,Dairy
+2013,273.2,Dairy
+2012,281.7,Dairy
+2011,242.7,Dairy
+2010,244.8,Dairy
+2023,2820.4,Fish and shellfish
+2022,3086.9,Fish and shellfish
+2021,3051,Fish and shellfish
+2020,2729.3,Fish and shellfish
+2019,2648.9,Fish and shellfish
+2018,2718.8,Fish and shellfish
+2017,2621.8,Fish and shellfish
+2016,2553.5,Fish and shellfish
+2015,2496.3,Fish and shellfish
+2014,2450,Fish and shellfish
+2013,2378.4,Fish and shellfish
+2012,2361.5,Fish and shellfish
+2011,2345.6,Fish and shellfish
+2010,2342,Fish and shellfish
+2023,15213.4,Fruits
+2022,15144.2,Fruits
+2021,14753.6,Fruits
+2020,14183.1,Fruits
+2019,13900.7,Fruits
+2018,14065.3,Fruits
+2017,13624.4,Fruits
+2016,13269.2,Fruits
+2015,12884,Fruits
+2014,12175.5,Fruits
+2013,11849.1,Fruits
+2012,11047.4,Fruits
+2011,10384.7,Fruits
+2010,10068.2,Fruits
+2023,13295.2,Grains
+2022,12117.1,Grains
+2021,10851,Grains
+2020,11355.4,Grains
+2019,11076.5,Grains
+2018,11810.7,Grains
+2017,11505.7,Grains
+2016,10671.4,Grains
+2015,10682.8,Grains
+2014,11077.7,Grains
+2013,12763.1,Grains
+2012,10414.9,Grains
+2011,8368.1,Grains
+2010,8447.4,Grains
+2023,8746.8,Live meat animals
+2022,8134.9,Live meat animals
+2021,8440.9,Live meat animals
+2020,7397.3,Live meat animals
+2019,7139.2,Live meat animals
+2018,7124.5,Live meat animals
+2017,7363.3,Live meat animals
+2016,7336.2,Live meat animals
+2015,7661.2,Live meat animals
+2014,7232.6,Live meat animals
+2013,6947.3,Live meat animals
+2012,7909.8,Live meat animals
+2011,7872.7,Live meat animals
+2010,7997.6,Live meat animals
+2023,2160.7,Meats
+2022,2218.9,Meats
+2021,2076.9,Meats
+2020,1886.9,Meats
+2019,1795.5,Meats
+2018,1821.2,Meats
+2017,1847.8,Meats
+2016,1824.8,Meats
+2015,1942.8,Meats
+2014,1720.2,Meats
+2013,1400.5,Meats
+2012,1336.6,Meats
+2011,1270.1,Meats
+2010,1371.5,Meats
+2023,517.3,Nuts
+2022,550.1,Nuts
+2021,589.2,Nuts
+2020,513.8,Nuts
+2019,534.3,Nuts
+2018,553.8,Nuts
+2017,544.8,Nuts
+2016,514.1,Nuts
+2015,507.3,Nuts
+2014,472.7,Nuts
+2013,425.8,Nuts
+2012,441.2,Nuts
+2011,357.6,Nuts
+2010,357.7,Nuts
+2023,4744.7,Sugar and candy
+2022,4869.4,Sugar and candy
+2021,4504.9,Sugar and candy
+2020,4919.9,Sugar and candy
+2019,4271.9,Sugar and candy
+2018,4147.3,Sugar and candy
+2017,4076.9,Sugar and candy
+2016,4333.6,Sugar and candy
+2015,4414.4,Sugar and candy
+2014,4232.1,Sugar and candy
+2013,4018.3,Sugar and candy
+2012,4091.9,Sugar and candy
+2011,4521.3,Sugar and candy
+2010,3959.3,Sugar and candy
+2023,7984.5,Vegetable oils
+2022,7257.9,Vegetable oils
+2021,6718.8,Vegetable oils
+2020,6219.9,Vegetable oils
+2019,6149.8,Vegetable oils
+2018,6281.9,Vegetable oils
+2017,6399.9,Vegetable oils
+2016,6198.2,Vegetable oils
+2015,6017.8,Vegetable oils
+2014,7507.7,Vegetable oils
+2013,6278.5,Vegetable oils
+2012,5012.8,Vegetable oils
+2011,5229.4,Vegetable oils
+2010,4583.6,Vegetable oils
+2023,13838.9,Vegetables
+2022,13694.8,Vegetables
+2021,13318.2,Vegetables
+2020,12257.7,Vegetables
+2019,11743.6,Vegetables
+2018,11645.6,Vegetables
+2017,11053.6,Vegetables
+2016,10573.1,Vegetables
+2015,9717.4,Vegetables
+2014,9560.5,Vegetables
+2013,8976.3,Vegetables
+2012,8614.3,Vegetables
+2011,8429.5,Vegetables
+2010,8076.2,Vegetables
+2023,3740.9,Other edible products
+2022,3583,Other edible products
+2021,3036.6,Other edible products
+2020,2652.4,Other edible products
+2019,2406.1,Other edible products
+2018,2385.8,Other edible products
+2017,2216.5,Other edible products
+2016,2010.5,Other edible products
+2015,1971.9,Other edible products
+2014,2062.2,Other edible products
+2013,1948.8,Other edible products
+2012,1892.6,Other edible products
+2011,1840.1,Other edible products
+2010,1653.8,Other edible products

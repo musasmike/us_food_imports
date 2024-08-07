@@ -1,0 +1,799 @@
+Year,Country,Category Type,Food Category,Food Value
+2023,France,Wine,Beverages,2475.50
+2022,France,Wine,Beverages,2659.70
+2021,France,Wine,Beverages,2542.30
+2020,France,Wine,Beverages,1703.50
+2019,France,Wine,Beverages,2118.70
+2018,France,Wine,Beverages,2063.50
+2017,France,Wine,Beverages,1829.90
+2016,France,Wine,Beverages,1588.50
+2015,France,Wine,Beverages,1538.10
+2014,France,Wine,Beverages,1474.80
+2013,France,Wine,Beverages,1409.00
+2012,France,Wine,Beverages,1348.30
+2011,France,Wine,Beverages,1231.00
+2010,France,Wine,Beverages,992.40
+2023,Italy,Wine,Beverages,2255.40
+2022,Italy,Wine,Beverages,2476.00
+2021,Italy,Wine,Beverages,2525.00
+2020,Italy,Wine,Beverages,2106.70
+2019,Italy,Wine,Beverages,2053.90
+2018,Italy,Wine,Beverages,2071.70
+2017,Italy,Wine,Beverages,1931.60
+2016,Italy,Wine,Beverages,1859.50
+2015,Italy,Wine,Beverages,1747.00
+2014,Italy,Wine,Beverages,1740.50
+2013,Italy,Wine,Beverages,1646.80
+2012,Italy,Wine,Beverages,1505.50
+2011,Italy,Wine,Beverages,1518.10
+2010,Italy,Wine,Beverages,1282.00
+2023,New Zealand,Wine,Beverages,596.80
+2022,New Zealand,Wine,Beverages,583.70
+2021,New Zealand,Wine,Beverages,551.70
+2020,New Zealand,Wine,Beverages,489.00
+2019,New Zealand,Wine,Beverages,465.30
+2018,New Zealand,Wine,Beverages,437.90
+2017,New Zealand,Wine,Beverages,423.80
+2016,New Zealand,Wine,Beverages,400.90
+2015,New Zealand,Wine,Beverages,361.00
+2014,New Zealand,Wine,Beverages,328.00
+2013,New Zealand,Wine,Beverages,282.00
+2012,New Zealand,Wine,Beverages,248.60
+2011,New Zealand,Wine,Beverages,199.70
+2010,New Zealand,Wine,Beverages,197.50
+2023,Spain,Wine,Beverages,382.20
+2022,Spain,Wine,Beverages,417.30
+2021,Spain,Wine,Beverages,438.90
+2020,Spain,Wine,Beverages,342.50
+2019,Spain,Wine,Beverages,377.80
+2018,Spain,Wine,Beverages,385.00
+2017,Spain,Wine,Beverages,378.20
+2016,Spain,Wine,Beverages,359.30
+2015,Spain,Wine,Beverages,346.10
+2014,Spain,Wine,Beverages,353.90
+2013,Spain,Wine,Beverages,349.00
+2012,Spain,Wine,Beverages,326.60
+2011,Spain,Wine,Beverages,305.20
+2010,Spain,Wine,Beverages,273.90
+2023,Australia,Wine,Beverages,270.30
+2022,Australia,Wine,Beverages,309.50
+2021,Australia,Wine,Beverages,293.40
+2020,Australia,Wine,Beverages,319.30
+2019,Australia,Wine,Beverages,338.40
+2018,Australia,Wine,Beverages,356.80
+2017,Australia,Wine,Beverages,407.30
+2016,Australia,Wine,Beverages,393.80
+2015,Australia,Wine,Beverages,431.70
+2014,Australia,Wine,Beverages,450.40
+2013,Australia,Wine,Beverages,498.20
+2012,Australia,Wine,Beverages,530.70
+2011,Australia,Wine,Beverages,553.60
+2010,Australia,Wine,Beverages,603.40
+2023,Argentina,Wine,Beverages,200.50
+2022,Argentina,Wine,Beverages,281.00
+2021,Argentina,Wine,Beverages,265.40
+2020,Argentina,Wine,Beverages,251.00
+2019,Argentina,Wine,Beverages,270.10
+2018,Argentina,Wine,Beverages,285.10
+2017,Argentina,Wine,Beverages,309.20
+2016,Argentina,Wine,Beverages,330.40
+2015,Argentina,Wine,Beverages,345.30
+2014,Argentina,Wine,Beverages,351.70
+2013,Argentina,Wine,Beverages,378.10
+2012,Argentina,Wine,Beverages,402.70
+2011,Argentina,Wine,Beverages,341.00
+2010,Argentina,Wine,Beverages,269.80
+2023,Canada,Wine,Beverages,196.30
+2022,Canada,Wine,Beverages,182.80
+2021,Canada,Wine,Beverages,181.30
+2020,Canada,Wine,Beverages,143.90
+2019,Canada,Wine,Beverages,136.70
+2018,Canada,Wine,Beverages,95.40
+2017,Canada,Wine,Beverages,80.70
+2016,Canada,Wine,Beverages,77.40
+2015,Canada,Wine,Beverages,61.80
+2014,Canada,Wine,Beverages,53.10
+2013,Canada,Wine,Beverages,38.80
+2012,Canada,Wine,Beverages,27.80
+2011,Canada,Wine,Beverages,31.00
+2010,Canada,Wine,Beverages,13.60
+2023,Rest of world,Wine,Beverages,730.10
+2022,Rest of world,Wine,Beverages,903.80
+2021,Rest of world,Wine,Beverages,986.70
+2020,Rest of world,Wine,Beverages,889.10
+2019,Rest of world,Wine,Beverages,749.10
+2018,Rest of world,Wine,Beverages,743.80
+2017,Rest of world,Wine,Beverages,768.80
+2016,Rest of world,Wine,Beverages,734.80
+2015,Rest of world,Wine,Beverages,732.60
+2014,Rest of world,Wine,Beverages,721.40
+2013,Rest of world,Wine,Beverages,754.10
+2012,Rest of world,Wine,Beverages,761.20
+2011,Rest of world,Wine,Beverages,722.00
+2010,Rest of world,Wine,Beverages,673.00
+2023,Mexico,Malt beer,Beverages,5683.20
+2022,Mexico,Malt beer,Beverages,5383.90
+2021,Mexico,Malt beer,Beverages,4863.00
+2020,Mexico,Malt beer,Beverages,4150.90
+2019,Mexico,Malt beer,Beverages,3946.90
+2018,Mexico,Malt beer,Beverages,3595.40
+2017,Mexico,Malt beer,Beverages,3315.90
+2016,Mexico,Malt beer,Beverages,3094.20
+2015,Mexico,Malt beer,Beverages,2722.90
+2014,Mexico,Malt beer,Beverages,2450.90
+2013,Mexico,Malt beer,Beverages,1917.40
+2012,Mexico,Malt beer,Beverages,1818.70
+2011,Mexico,Malt beer,Beverages,1676.90
+2010,Mexico,Malt beer,Beverages,1591.30
+2023,Netherlands,Malt beer,Beverages,622.10
+2022,Netherlands,Malt beer,Beverages,774.90
+2021,Netherlands,Malt beer,Beverages,744.50
+2020,Netherlands,Malt beer,Beverages,807.10
+2019,Netherlands,Malt beer,Beverages,723.70
+2018,Netherlands,Malt beer,Beverages,768.20
+2017,Netherlands,Malt beer,Beverages,785.40
+2016,Netherlands,Malt beer,Beverages,784.50
+2015,Netherlands,Malt beer,Beverages,830.20
+2014,Netherlands,Malt beer,Beverages,783.40
+2013,Netherlands,Malt beer,Beverages,844.00
+2012,Netherlands,Malt beer,Beverages,878.70
+2011,Netherlands,Malt beer,Beverages,862.70
+2010,Netherlands,Malt beer,Beverages,945.90
+2023,Ireland,Malt beer,Beverages,153.70
+2022,Ireland,Malt beer,Beverages,166.90
+2021,Ireland,Malt beer,Beverages,151.70
+2020,Ireland,Malt beer,Beverages,147.90
+2019,Ireland,Malt beer,Beverages,191.20
+2018,Ireland,Malt beer,Beverages,185.50
+2017,Ireland,Malt beer,Beverages,191.90
+2016,Ireland,Malt beer,Beverages,211.50
+2015,Ireland,Malt beer,Beverages,184.70
+2014,Ireland,Malt beer,Beverages,131.10
+2013,Ireland,Malt beer,Beverages,170.50
+2012,Ireland,Malt beer,Beverages,167.00
+2011,Ireland,Malt beer,Beverages,164.30
+2010,Ireland,Malt beer,Beverages,137.30
+2023,Canada,Malt beer,Beverages,105.10
+2022,Canada,Malt beer,Beverages,97.60
+2021,Canada,Malt beer,Beverages,100.30
+2020,Canada,Malt beer,Beverages,100.80
+2019,Canada,Malt beer,Beverages,103.20
+2018,Canada,Malt beer,Beverages,106.40
+2017,Canada,Malt beer,Beverages,109.80
+2016,Canada,Malt beer,Beverages,106.30
+2015,Canada,Malt beer,Beverages,138.90
+2014,Canada,Malt beer,Beverages,153.60
+2013,Canada,Malt beer,Beverages,175.70
+2012,Canada,Malt beer,Beverages,182.90
+2011,Canada,Malt beer,Beverages,195.80
+2010,Canada,Malt beer,Beverages,213.00
+2023,Germany,Malt beer,Beverages,70.60
+2022,Germany,Malt beer,Beverages,74.00
+2021,Germany,Malt beer,Beverages,81.10
+2020,Germany,Malt beer,Beverages,68.60
+2019,Germany,Malt beer,Beverages,82.40
+2018,Germany,Malt beer,Beverages,98.70
+2017,Germany,Malt beer,Beverages,169.50
+2016,Germany,Malt beer,Beverages,121.10
+2015,Germany,Malt beer,Beverages,81.40
+2014,Germany,Malt beer,Beverages,83.20
+2013,Germany,Malt beer,Beverages,99.50
+2012,Germany,Malt beer,Beverages,112.40
+2011,Germany,Malt beer,Beverages,147.60
+2010,Germany,Malt beer,Beverages,148.80
+2023,Belgium,Malt beer,Beverages,41.00
+2022,Belgium,Malt beer,Beverages,51.00
+2021,Belgium,Malt beer,Beverages,222.60
+2020,Belgium,Malt beer,Beverages,333.60
+2019,Belgium,Malt beer,Beverages,367.00
+2018,Belgium,Malt beer,Beverages,310.60
+2017,Belgium,Malt beer,Beverages,300.20
+2016,Belgium,Malt beer,Beverages,327.90
+2015,Belgium,Malt beer,Beverages,369.50
+2014,Belgium,Malt beer,Beverages,306.50
+2013,Belgium,Malt beer,Beverages,238.20
+2012,Belgium,Malt beer,Beverages,233.70
+2011,Belgium,Malt beer,Beverages,209.70
+2010,Belgium,Malt beer,Beverages,162.80
+2023,Italy,Malt beer,Beverages,30.20
+2022,Italy,Malt beer,Beverages,28.90
+2021,Italy,Malt beer,Beverages,31.10
+2020,Italy,Malt beer,Beverages,22.00
+2019,Italy,Malt beer,Beverages,23.10
+2018,Italy,Malt beer,Beverages,19.20
+2017,Italy,Malt beer,Beverages,18.80
+2016,Italy,Malt beer,Beverages,15.90
+2015,Italy,Malt beer,Beverages,16.70
+2014,Italy,Malt beer,Beverages,23.20
+2013,Italy,Malt beer,Beverages,22.40
+2012,Italy,Malt beer,Beverages,31.50
+2011,Italy,Malt beer,Beverages,31.10
+2010,Italy,Malt beer,Beverages,28.90
+2023,Rest of world,Malt beer,Beverages,132.70
+2022,Rest of world,Malt beer,Beverages,128.50
+2021,Rest of world,Malt beer,Beverages,167.30
+2020,Rest of world,Malt beer,Beverages,108.20
+2019,Rest of world,Malt beer,Beverages,149.80
+2018,Rest of world,Malt beer,Beverages,231.40
+2017,Rest of world,Malt beer,Beverages,172.60
+2016,Rest of world,Malt beer,Beverages,185.80
+2015,Rest of world,Malt beer,Beverages,183.60
+2014,Rest of world,Malt beer,Beverages,195.80
+2013,Rest of world,Malt beer,Beverages,215.90
+2012,Rest of world,Malt beer,Beverages,258.10
+2011,Rest of world,Malt beer,Beverages,262.20
+2010,Rest of world,Malt beer,Beverages,263.60
+2023,Mexico,Nonalcoholic beverages,Beverages,1002.20
+2022,Mexico,Nonalcoholic beverages,Beverages,880.10
+2021,Mexico,Nonalcoholic beverages,Beverages,726.90
+2020,Mexico,Nonalcoholic beverages,Beverages,554.30
+2019,Mexico,Nonalcoholic beverages,Beverages,474.40
+2018,Mexico,Nonalcoholic beverages,Beverages,418.80
+2017,Mexico,Nonalcoholic beverages,Beverages,367.20
+2016,Mexico,Nonalcoholic beverages,Beverages,330.30
+2015,Mexico,Nonalcoholic beverages,Beverages,324.20
+2014,Mexico,Nonalcoholic beverages,Beverages,334.90
+2013,Mexico,Nonalcoholic beverages,Beverages,326.40
+2012,Mexico,Nonalcoholic beverages,Beverages,290.60
+2011,Mexico,Nonalcoholic beverages,Beverages,277.00
+2010,Mexico,Nonalcoholic beverages,Beverages,267.60
+2023,Canada,Nonalcoholic beverages,Beverages,516.90
+2022,Canada,Nonalcoholic beverages,Beverages,438.10
+2021,Canada,Nonalcoholic beverages,Beverages,374.60
+2020,Canada,Nonalcoholic beverages,Beverages,322.80
+2019,Canada,Nonalcoholic beverages,Beverages,283.30
+2018,Canada,Nonalcoholic beverages,Beverages,223.60
+2017,Canada,Nonalcoholic beverages,Beverages,162.80
+2016,Canada,Nonalcoholic beverages,Beverages,147.00
+2015,Canada,Nonalcoholic beverages,Beverages,89.40
+2014,Canada,Nonalcoholic beverages,Beverages,96.50
+2013,Canada,Nonalcoholic beverages,Beverages,138.30
+2012,Canada,Nonalcoholic beverages,Beverages,167.50
+2011,Canada,Nonalcoholic beverages,Beverages,136.20
+2010,Canada,Nonalcoholic beverages,Beverages,118.60
+2023,Italy,Nonalcoholic beverages,Beverages,459.10
+2022,Italy,Nonalcoholic beverages,Beverages,374.20
+2021,Italy,Nonalcoholic beverages,Beverages,291.20
+2020,Italy,Nonalcoholic beverages,Beverages,358.10
+2019,Italy,Nonalcoholic beverages,Beverages,332.10
+2018,Italy,Nonalcoholic beverages,Beverages,279.70
+2017,Italy,Nonalcoholic beverages,Beverages,260.10
+2016,Italy,Nonalcoholic beverages,Beverages,240.60
+2015,Italy,Nonalcoholic beverages,Beverages,241.70
+2014,Italy,Nonalcoholic beverages,Beverages,221.00
+2013,Italy,Nonalcoholic beverages,Beverages,189.30
+2012,Italy,Nonalcoholic beverages,Beverages,163.20
+2011,Italy,Nonalcoholic beverages,Beverages,143.30
+2010,Italy,Nonalcoholic beverages,Beverages,137.80
+2023,Austria,Nonalcoholic beverages,Beverages,349.10
+2022,Austria,Nonalcoholic beverages,Beverages,600.80
+2021,Austria,Nonalcoholic beverages,Beverages,889.90
+2020,Austria,Nonalcoholic beverages,Beverages,1045.20
+2019,Austria,Nonalcoholic beverages,Beverages,1027.20
+2018,Austria,Nonalcoholic beverages,Beverages,950.60
+2017,Austria,Nonalcoholic beverages,Beverages,864.00
+2016,Austria,Nonalcoholic beverages,Beverages,696.30
+2015,Austria,Nonalcoholic beverages,Beverages,600.70
+2014,Austria,Nonalcoholic beverages,Beverages,490.40
+2013,Austria,Nonalcoholic beverages,Beverages,509.20
+2012,Austria,Nonalcoholic beverages,Beverages,529.10
+2011,Austria,Nonalcoholic beverages,Beverages,461.00
+2010,Austria,Nonalcoholic beverages,Beverages,390.50
+2023,Switzerland,Nonalcoholic beverages,Beverages,279.90
+2022,Switzerland,Nonalcoholic beverages,Beverages,451.30
+2021,Switzerland,Nonalcoholic beverages,Beverages,689.10
+2020,Switzerland,Nonalcoholic beverages,Beverages,641.40
+2019,Switzerland,Nonalcoholic beverages,Beverages,715.80
+2018,Switzerland,Nonalcoholic beverages,Beverages,718.00
+2017,Switzerland,Nonalcoholic beverages,Beverages,806.60
+2016,Switzerland,Nonalcoholic beverages,Beverages,842.20
+2015,Switzerland,Nonalcoholic beverages,Beverages,933.60
+2014,Switzerland,Nonalcoholic beverages,Beverages,766.10
+2013,Switzerland,Nonalcoholic beverages,Beverages,672.50
+2012,Switzerland,Nonalcoholic beverages,Beverages,543.90
+2011,Switzerland,Nonalcoholic beverages,Beverages,445.30
+2010,Switzerland,Nonalcoholic beverages,Beverages,381.80
+2023,France,Nonalcoholic beverages,Beverages,260.30
+2022,France,Nonalcoholic beverages,Beverages,258.00
+2021,France,Nonalcoholic beverages,Beverages,239.20
+2020,France,Nonalcoholic beverages,Beverages,223.60
+2019,France,Nonalcoholic beverages,Beverages,244.90
+2018,France,Nonalcoholic beverages,Beverages,223.00
+2017,France,Nonalcoholic beverages,Beverages,230.50
+2016,France,Nonalcoholic beverages,Beverages,188.20
+2015,France,Nonalcoholic beverages,Beverages,156.50
+2014,France,Nonalcoholic beverages,Beverages,174.70
+2013,France,Nonalcoholic beverages,Beverages,147.00
+2012,France,Nonalcoholic beverages,Beverages,136.30
+2011,France,Nonalcoholic beverages,Beverages,117.90
+2010,France,Nonalcoholic beverages,Beverages,111.60
+2023,Rest of world,Nonalcoholic beverages,Beverages,1107.00
+2022,Rest of world,Nonalcoholic beverages,Beverages,1179.80
+2021,Rest of world,Nonalcoholic beverages,Beverages,1194.90
+2020,Rest of world,Nonalcoholic beverages,Beverages,994.50
+2019,Rest of world,Nonalcoholic beverages,Beverages,858.30
+2018,Rest of world,Nonalcoholic beverages,Beverages,979.10
+2017,Rest of world,Nonalcoholic beverages,Beverages,1028.00
+2016,Rest of world,Nonalcoholic beverages,Beverages,945.80
+2015,Rest of world,Nonalcoholic beverages,Beverages,800.20
+2014,Rest of world,Nonalcoholic beverages,Beverages,707.00
+2013,Rest of world,Nonalcoholic beverages,Beverages,606.80
+2012,Rest of world,Nonalcoholic beverages,Beverages,575.60
+2011,Rest of world,Nonalcoholic beverages,Beverages,449.40
+2010,Rest of world,Nonalcoholic beverages,Beverages,382.20
+2023,Mexico,Liquors and liqueurs,Beverages,4743.10
+2022,Mexico,Liquors and liqueurs,Beverages,5048.10
+2021,Mexico,Liquors and liqueurs,Beverages,3740.30
+2020,Mexico,Liquors and liqueurs,Beverages,2668.20
+2019,Mexico,Liquors and liqueurs,Beverages,1846.90
+2018,Mexico,Liquors and liqueurs,Beverages,1522.90
+2017,Mexico,Liquors and liqueurs,Beverages,1298.60
+2016,Mexico,Liquors and liqueurs,Beverages,1133.90
+2015,Mexico,Liquors and liqueurs,Beverages,1118.70
+2014,Mexico,Liquors and liqueurs,Beverages,1053.50
+2013,Mexico,Liquors and liqueurs,Beverages,818.60
+2012,Mexico,Liquors and liqueurs,Beverages,781.40
+2011,Mexico,Liquors and liqueurs,Beverages,755.50
+2010,Mexico,Liquors and liqueurs,Beverages,684.50
+2023,France,Liquors and liqueurs,Beverages,1945.60
+2022,France,Liquors and liqueurs,Beverages,3069.90
+2021,France,Liquors and liqueurs,Beverages,2937.00
+2020,France,Liquors and liqueurs,Beverages,2367.70
+2019,France,Liquors and liqueurs,Beverages,2548.30
+2018,France,Liquors and liqueurs,Beverages,2275.10
+2017,France,Liquors and liqueurs,Beverages,2062.90
+2016,France,Liquors and liqueurs,Beverages,2068.10
+2015,France,Liquors and liqueurs,Beverages,1873.00
+2014,France,Liquors and liqueurs,Beverages,1785.20
+2013,France,Liquors and liqueurs,Beverages,1777.30
+2012,France,Liquors and liqueurs,Beverages,1722.90
+2011,France,Liquors and liqueurs,Beverages,1606.40
+2010,France,Liquors and liqueurs,Beverages,1445.30
+2023,United Kingdom,Liquors and liqueurs,Beverages,1663.20
+2022,United Kingdom,Liquors and liqueurs,Beverages,1532.90
+2021,United Kingdom,Liquors and liqueurs,Beverages,1191.50
+2020,United Kingdom,Liquors and liqueurs,Beverages,1254.70
+2019,United Kingdom,Liquors and liqueurs,Beverages,1878.30
+2018,United Kingdom,Liquors and liqueurs,Beverages,1777.80
+2017,United Kingdom,Liquors and liqueurs,Beverages,1713.70
+2016,United Kingdom,Liquors and liqueurs,Beverages,1656.50
+2015,United Kingdom,Liquors and liqueurs,Beverages,1546.30
+2014,United Kingdom,Liquors and liqueurs,Beverages,1538.10
+2013,United Kingdom,Liquors and liqueurs,Beverages,1504.60
+2012,United Kingdom,Liquors and liqueurs,Beverages,1352.90
+2011,United Kingdom,Liquors and liqueurs,Beverages,1246.00
+2010,United Kingdom,Liquors and liqueurs,Beverages,1119.60
+2023,Canada,Liquors and liqueurs,Beverages,537.60
+2022,Canada,Liquors and liqueurs,Beverages,483.70
+2021,Canada,Liquors and liqueurs,Beverages,502.50
+2020,Canada,Liquors and liqueurs,Beverages,444.60
+2019,Canada,Liquors and liqueurs,Beverages,423.90
+2018,Canada,Liquors and liqueurs,Beverages,389.80
+2017,Canada,Liquors and liqueurs,Beverages,366.90
+2016,Canada,Liquors and liqueurs,Beverages,392.10
+2015,Canada,Liquors and liqueurs,Beverages,392.70
+2014,Canada,Liquors and liqueurs,Beverages,412.40
+2013,Canada,Liquors and liqueurs,Beverages,430.60
+2012,Canada,Liquors and liqueurs,Beverages,357.30
+2011,Canada,Liquors and liqueurs,Beverages,334.60
+2010,Canada,Liquors and liqueurs,Beverages,291.60
+2023,Netherlands,Liquors and liqueurs,Beverages,364.40
+2022,Netherlands,Liquors and liqueurs,Beverages,351.70
+2021,Netherlands,Liquors and liqueurs,Beverages,314.30
+2020,Netherlands,Liquors and liqueurs,Beverages,299.10
+2019,Netherlands,Liquors and liqueurs,Beverages,328.00
+2018,Netherlands,Liquors and liqueurs,Beverages,345.80
+2017,Netherlands,Liquors and liqueurs,Beverages,257.90
+2016,Netherlands,Liquors and liqueurs,Beverages,302.70
+2015,Netherlands,Liquors and liqueurs,Beverages,298.10
+2014,Netherlands,Liquors and liqueurs,Beverages,276.40
+2013,Netherlands,Liquors and liqueurs,Beverages,291.30
+2012,Netherlands,Liquors and liqueurs,Beverages,258.20
+2011,Netherlands,Liquors and liqueurs,Beverages,250.90
+2010,Netherlands,Liquors and liqueurs,Beverages,244.70
+2023,Ireland,Liquors and liqueurs,Beverages,265.40
+2022,Ireland,Liquors and liqueurs,Beverages,358.20
+2021,Ireland,Liquors and liqueurs,Beverages,391.40
+2020,Ireland,Liquors and liqueurs,Beverages,505.10
+2019,Ireland,Liquors and liqueurs,Beverages,797.00
+2018,Ireland,Liquors and liqueurs,Beverages,689.50
+2017,Ireland,Liquors and liqueurs,Beverages,617.50
+2016,Ireland,Liquors and liqueurs,Beverages,548.90
+2015,Ireland,Liquors and liqueurs,Beverages,525.70
+2014,Ireland,Liquors and liqueurs,Beverages,451.30
+2013,Ireland,Liquors and liqueurs,Beverages,427.40
+2012,Ireland,Liquors and liqueurs,Beverages,378.90
+2011,Ireland,Liquors and liqueurs,Beverages,335.20
+2010,Ireland,Liquors and liqueurs,Beverages,290.80
+2023,Italy,Liquors and liqueurs,Beverages,242.10
+2022,Italy,Liquors and liqueurs,Beverages,233.70
+2021,Italy,Liquors and liqueurs,Beverages,153.00
+2020,Italy,Liquors and liqueurs,Beverages,104.20
+2019,Italy,Liquors and liqueurs,Beverages,177.90
+2018,Italy,Liquors and liqueurs,Beverages,170.10
+2017,Italy,Liquors and liqueurs,Beverages,144.40
+2016,Italy,Liquors and liqueurs,Beverages,139.00
+2015,Italy,Liquors and liqueurs,Beverages,144.60
+2014,Italy,Liquors and liqueurs,Beverages,142.90
+2013,Italy,Liquors and liqueurs,Beverages,152.80
+2012,Italy,Liquors and liqueurs,Beverages,153.50
+2011,Italy,Liquors and liqueurs,Beverages,145.20
+2010,Italy,Liquors and liqueurs,Beverages,141.60
+2023,Sweden,Liquors and liqueurs,Beverages,137.80
+2022,Sweden,Liquors and liqueurs,Beverages,159.00
+2021,Sweden,Liquors and liqueurs,Beverages,177.20
+2020,Sweden,Liquors and liqueurs,Beverages,224.90
+2019,Sweden,Liquors and liqueurs,Beverages,245.90
+2018,Sweden,Liquors and liqueurs,Beverages,234.90
+2017,Sweden,Liquors and liqueurs,Beverages,259.50
+2016,Sweden,Liquors and liqueurs,Beverages,273.40
+2015,Sweden,Liquors and liqueurs,Beverages,289.20
+2014,Sweden,Liquors and liqueurs,Beverages,315.00
+2013,Sweden,Liquors and liqueurs,Beverages,344.30
+2012,Sweden,Liquors and liqueurs,Beverages,360.70
+2011,Sweden,Liquors and liqueurs,Beverages,406.70
+2010,Sweden,Liquors and liqueurs,Beverages,420.30
+2023,Rest of world,Liquors and liqueurs,Beverages,780.10
+2022,Rest of world,Liquors and liqueurs,Beverages,863.00
+2021,Rest of world,Liquors and liqueurs,Beverages,771.10
+2020,Rest of world,Liquors and liqueurs,Beverages,610.70
+2019,Rest of world,Liquors and liqueurs,Beverages,742.70
+2018,Rest of world,Liquors and liqueurs,Beverages,679.00
+2017,Rest of world,Liquors and liqueurs,Beverages,671.20
+2016,Rest of world,Liquors and liqueurs,Beverages,679.80
+2015,Rest of world,Liquors and liqueurs,Beverages,626.10
+2014,Rest of world,Liquors and liqueurs,Beverages,651.90
+2013,Rest of world,Liquors and liqueurs,Beverages,686.40
+2012,Rest of world,Liquors and liqueurs,Beverages,702.00
+2011,Rest of world,Liquors and liqueurs,Beverages,687.10
+2010,Rest of world,Liquors and liqueurs,Beverages,585.30
+2023,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,361.10
+2022,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,448.30
+2021,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,748.60
+2020,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,505.80
+2019,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,485.90
+2018,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,608.10
+2017,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,746.70
+2016,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,833.90
+2015,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,772.70
+2014,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,752.30
+2013,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,660.60
+2012,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,577.10
+2011,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,741.20
+2010,Cote d'Ivoire,Cocoa beans,Cocoa and chocolate,594.00
+2023,Ecuador,Cocoa beans,Cocoa and chocolate,171.10
+2022,Ecuador,Cocoa beans,Cocoa and chocolate,170.20
+2021,Ecuador,Cocoa beans,Cocoa and chocolate,197.30
+2020,Ecuador,Cocoa beans,Cocoa and chocolate,184.00
+2019,Ecuador,Cocoa beans,Cocoa and chocolate,116.20
+2018,Ecuador,Cocoa beans,Cocoa and chocolate,123.50
+2017,Ecuador,Cocoa beans,Cocoa and chocolate,126.10
+2016,Ecuador,Cocoa beans,Cocoa and chocolate,166.80
+2015,Ecuador,Cocoa beans,Cocoa and chocolate,296.30
+2014,Ecuador,Cocoa beans,Cocoa and chocolate,236.30
+2013,Ecuador,Cocoa beans,Cocoa and chocolate,166.90
+2012,Ecuador,Cocoa beans,Cocoa and chocolate,125.10
+2011,Ecuador,Cocoa beans,Cocoa and chocolate,234.90
+2010,Ecuador,Cocoa beans,Cocoa and chocolate,93.50
+2023,Ghana,Cocoa beans,Cocoa and chocolate,146.70
+2022,Ghana,Cocoa beans,Cocoa and chocolate,139.20
+2021,Ghana,Cocoa beans,Cocoa and chocolate,134.60
+2020,Ghana,Cocoa beans,Cocoa and chocolate,139.30
+2019,Ghana,Cocoa beans,Cocoa and chocolate,174.90
+2018,Ghana,Cocoa beans,Cocoa and chocolate,115.50
+2017,Ghana,Cocoa beans,Cocoa and chocolate,186.50
+2016,Ghana,Cocoa beans,Cocoa and chocolate,181.40
+2015,Ghana,Cocoa beans,Cocoa and chocolate,198.60
+2014,Ghana,Cocoa beans,Cocoa and chocolate,157.50
+2013,Ghana,Cocoa beans,Cocoa and chocolate,148.70
+2012,Ghana,Cocoa beans,Cocoa and chocolate,124.50
+2011,Ghana,Cocoa beans,Cocoa and chocolate,220.90
+2010,Ghana,Cocoa beans,Cocoa and chocolate,95.60
+2023,Dominican Republic,Cocoa beans,Cocoa and chocolate,39.60
+2022,Dominican Republic,Cocoa beans,Cocoa and chocolate,55.60
+2021,Dominican Republic,Cocoa beans,Cocoa and chocolate,45.70
+2020,Dominican Republic,Cocoa beans,Cocoa and chocolate,57.70
+2019,Dominican Republic,Cocoa beans,Cocoa and chocolate,66.70
+2018,Dominican Republic,Cocoa beans,Cocoa and chocolate,47.10
+2017,Dominican Republic,Cocoa beans,Cocoa and chocolate,43.00
+2016,Dominican Republic,Cocoa beans,Cocoa and chocolate,51.70
+2015,Dominican Republic,Cocoa beans,Cocoa and chocolate,80.30
+2014,Dominican Republic,Cocoa beans,Cocoa and chocolate,69.30
+2013,Dominican Republic,Cocoa beans,Cocoa and chocolate,53.50
+2012,Dominican Republic,Cocoa beans,Cocoa and chocolate,77.20
+2011,Dominican Republic,Cocoa beans,Cocoa and chocolate,55.20
+2010,Dominican Republic,Cocoa beans,Cocoa and chocolate,55.40
+2023,Papua New Guinea,Cocoa beans,Cocoa and chocolate,25.10
+2022,Papua New Guinea,Cocoa beans,Cocoa and chocolate,13.90
+2021,Papua New Guinea,Cocoa beans,Cocoa and chocolate,19.10
+2020,Papua New Guinea,Cocoa beans,Cocoa and chocolate,29.80
+2019,Papua New Guinea,Cocoa beans,Cocoa and chocolate,10.80
+2018,Papua New Guinea,Cocoa beans,Cocoa and chocolate,17.30
+2017,Papua New Guinea,Cocoa beans,Cocoa and chocolate,21.20
+2016,Papua New Guinea,Cocoa beans,Cocoa and chocolate,22.10
+2015,Papua New Guinea,Cocoa beans,Cocoa and chocolate,32.50
+2014,Papua New Guinea,Cocoa beans,Cocoa and chocolate,26.10
+2013,Papua New Guinea,Cocoa beans,Cocoa and chocolate,15.80
+2012,Papua New Guinea,Cocoa beans,Cocoa and chocolate,20.30
+2011,Papua New Guinea,Cocoa beans,Cocoa and chocolate,23.00
+2010,Papua New Guinea,Cocoa beans,Cocoa and chocolate,34.20
+2023,Nigeria,Cocoa beans,Cocoa and chocolate,9.70
+2022,Nigeria,Cocoa beans,Cocoa and chocolate,16.30
+2021,Nigeria,Cocoa beans,Cocoa and chocolate,51.60
+2020,Nigeria,Cocoa beans,Cocoa and chocolate,11.80
+2019,Nigeria,Cocoa beans,Cocoa and chocolate,8.30
+2018,Nigeria,Cocoa beans,Cocoa and chocolate,15.20
+2017,Nigeria,Cocoa beans,Cocoa and chocolate,29.50
+2016,Nigeria,Cocoa beans,Cocoa and chocolate,4.60
+2015,Nigeria,Cocoa beans,Cocoa and chocolate,6.10
+2014,Nigeria,Cocoa beans,Cocoa and chocolate,43.40
+2013,Nigeria,Cocoa beans,Cocoa and chocolate,21.20
+2012,Nigeria,Cocoa beans,Cocoa and chocolate,50.40
+2011,Nigeria,Cocoa beans,Cocoa and chocolate,55.90
+2010,Nigeria,Cocoa beans,Cocoa and chocolate,24.30
+2023,Rest of world,Cocoa beans,Cocoa and chocolate,16.00
+2022,Rest of world,Cocoa beans,Cocoa and chocolate,55.50
+2021,Rest of world,Cocoa beans,Cocoa and chocolate,65.40
+2020,Rest of world,Cocoa beans,Cocoa and chocolate,67.30
+2019,Rest of world,Cocoa beans,Cocoa and chocolate,42.30
+2018,Rest of world,Cocoa beans,Cocoa and chocolate,34.50
+2017,Rest of world,Cocoa beans,Cocoa and chocolate,35.60
+2016,Rest of world,Cocoa beans,Cocoa and chocolate,33.30
+2015,Rest of world,Cocoa beans,Cocoa and chocolate,42.60
+2014,Rest of world,Cocoa beans,Cocoa and chocolate,27.40
+2013,Rest of world,Cocoa beans,Cocoa and chocolate,43.90
+2012,Rest of world,Cocoa beans,Cocoa and chocolate,21.50
+2011,Rest of world,Cocoa beans,Cocoa and chocolate,93.80
+2010,Rest of world,Cocoa beans,Cocoa and chocolate,353.90
+2023,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,300.10
+2022,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,285.60
+2021,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,235.30
+2020,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,254.00
+2019,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,159.30
+2018,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,112.60
+2017,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,134.50
+2016,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,182.10
+2015,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,125.60
+2014,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,181.10
+2013,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,141.40
+2012,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,154.40
+2011,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,129.30
+2010,Cote d'Ivoire,"Cocoa paste, butter, and powder",Cocoa and chocolate,170.90
+2023,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,230.70
+2022,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,196.90
+2021,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,229.80
+2020,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,257.50
+2019,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,312.10
+2018,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,363.60
+2017,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,305.10
+2016,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,241.00
+2015,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,267.20
+2014,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,251.00
+2013,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,159.60
+2012,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,156.50
+2011,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,166.00
+2010,Indonesia,"Cocoa paste, butter, and powder",Cocoa and chocolate,122.30
+2023,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,215.10
+2022,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,207.60
+2021,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,159.70
+2020,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,195.50
+2019,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,189.90
+2018,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,116.50
+2017,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,124.90
+2016,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,126.90
+2015,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,127.40
+2014,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,183.20
+2013,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,131.30
+2012,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,142.60
+2011,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,274.10
+2010,Malaysia,"Cocoa paste, butter, and powder",Cocoa and chocolate,304.80
+2023,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,207.30
+2022,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,246.10
+2021,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,199.20
+2020,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,157.60
+2019,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,163.20
+2018,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,141.30
+2017,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,183.20
+2016,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,195.20
+2015,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,133.30
+2014,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,155.60
+2013,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,191.40
+2012,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,257.00
+2011,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,282.00
+2010,Netherlands,"Cocoa paste, butter, and powder",Cocoa and chocolate,242.40
+2023,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,118.00
+2022,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,133.50
+2021,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,83.90
+2020,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,56.30
+2019,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,50.00
+2018,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,53.40
+2017,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,37.40
+2016,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,44.70
+2015,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,19.20
+2014,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,32.70
+2013,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,29.10
+2012,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,51.50
+2011,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,48.40
+2010,Ghana,"Cocoa paste, butter, and powder",Cocoa and chocolate,86.30
+2023,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,64.60
+2022,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,44.60
+2021,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,35.30
+2020,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,50.90
+2019,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,22.90
+2018,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,10.60
+2017,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,14.90
+2016,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,23.00
+2015,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,12.70
+2014,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,20.10
+2013,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,17.00
+2012,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,6.60
+2011,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,11.20
+2010,Ecuador,"Cocoa paste, butter, and powder",Cocoa and chocolate,8.90
+2023,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,54.70
+2022,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,52.30
+2021,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,41.40
+2020,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,37.70
+2019,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,17.90
+2018,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,23.90
+2017,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,33.50
+2016,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,33.70
+2015,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,30.60
+2014,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,24.20
+2013,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,35.90
+2012,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,29.80
+2011,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,32.00
+2010,Canada,"Cocoa paste, butter, and powder",Cocoa and chocolate,34.30
+2023,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,38.30
+2022,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,33.10
+2021,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,25.30
+2020,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,22.80
+2019,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,20.90
+2018,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,27.60
+2017,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,35.30
+2016,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,27.50
+2015,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,19.20
+2014,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,25.10
+2013,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,33.90
+2012,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,47.30
+2011,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,48.70
+2010,Spain,"Cocoa paste, butter, and powder",Cocoa and chocolate,35.50
+2023,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,225.40
+2022,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,294.50
+2021,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,261.00
+2020,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,231.80
+2019,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,301.10
+2018,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,277.20
+2017,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,309.60
+2016,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,359.30
+2015,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,324.40
+2014,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,312.00
+2013,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,257.80
+2012,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,313.30
+2011,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,414.00
+2010,Rest of world,"Cocoa paste, butter, and powder",Cocoa and chocolate,419.90
+2023,Canada,Chocolate,Cocoa and chocolate,1977.50
+2022,Canada,Chocolate,Cocoa and chocolate,1880.70
+2021,Canada,Chocolate,Cocoa and chocolate,1647.00
+2020,Canada,Chocolate,Cocoa and chocolate,1506.70
+2019,Canada,Chocolate,Cocoa and chocolate,1500.70
+2018,Canada,Chocolate,Cocoa and chocolate,1378.90
+2017,Canada,Chocolate,Cocoa and chocolate,1420.90
+2016,Canada,Chocolate,Cocoa and chocolate,1411.80
+2015,Canada,Chocolate,Cocoa and chocolate,1290.30
+2014,Canada,Chocolate,Cocoa and chocolate,1153.10
+2013,Canada,Chocolate,Cocoa and chocolate,1010.10
+2012,Canada,Chocolate,Cocoa and chocolate,959.50
+2011,Canada,Chocolate,Cocoa and chocolate,908.50
+2010,Canada,Chocolate,Cocoa and chocolate,837.90
+2023,Mexico,Chocolate,Cocoa and chocolate,598.20
+2022,Mexico,Chocolate,Cocoa and chocolate,560.90
+2021,Mexico,Chocolate,Cocoa and chocolate,477.80
+2020,Mexico,Chocolate,Cocoa and chocolate,517.90
+2019,Mexico,Chocolate,Cocoa and chocolate,526.40
+2018,Mexico,Chocolate,Cocoa and chocolate,458.00
+2017,Mexico,Chocolate,Cocoa and chocolate,496.20
+2016,Mexico,Chocolate,Cocoa and chocolate,466.70
+2015,Mexico,Chocolate,Cocoa and chocolate,450.20
+2014,Mexico,Chocolate,Cocoa and chocolate,411.50
+2013,Mexico,Chocolate,Cocoa and chocolate,419.00
+2012,Mexico,Chocolate,Cocoa and chocolate,416.40
+2011,Mexico,Chocolate,Cocoa and chocolate,411.20
+2010,Mexico,Chocolate,Cocoa and chocolate,349.70
+2023,Belgium,Chocolate,Cocoa and chocolate,203.60
+2022,Belgium,Chocolate,Cocoa and chocolate,180.20
+2021,Belgium,Chocolate,Cocoa and chocolate,158.60
+2020,Belgium,Chocolate,Cocoa and chocolate,125.90
+2019,Belgium,Chocolate,Cocoa and chocolate,148.60
+2018,Belgium,Chocolate,Cocoa and chocolate,139.30
+2017,Belgium,Chocolate,Cocoa and chocolate,156.80
+2016,Belgium,Chocolate,Cocoa and chocolate,136.90
+2015,Belgium,Chocolate,Cocoa and chocolate,122.30
+2014,Belgium,Chocolate,Cocoa and chocolate,128.00
+2013,Belgium,Chocolate,Cocoa and chocolate,120.30
+2012,Belgium,Chocolate,Cocoa and chocolate,116.30
+2011,Belgium,Chocolate,Cocoa and chocolate,111.80
+2010,Belgium,Chocolate,Cocoa and chocolate,86.50
+2023,Germany,Chocolate,Cocoa and chocolate,186.10
+2022,Germany,Chocolate,Cocoa and chocolate,162.80
+2021,Germany,Chocolate,Cocoa and chocolate,145.60
+2020,Germany,Chocolate,Cocoa and chocolate,134.70
+2019,Germany,Chocolate,Cocoa and chocolate,131.80
+2018,Germany,Chocolate,Cocoa and chocolate,146.80
+2017,Germany,Chocolate,Cocoa and chocolate,135.30
+2016,Germany,Chocolate,Cocoa and chocolate,116.60
+2015,Germany,Chocolate,Cocoa and chocolate,125.30
+2014,Germany,Chocolate,Cocoa and chocolate,156.00
+2013,Germany,Chocolate,Cocoa and chocolate,150.90
+2012,Germany,Chocolate,Cocoa and chocolate,132.10
+2011,Germany,Chocolate,Cocoa and chocolate,111.60
+2010,Germany,Chocolate,Cocoa and chocolate,89.30
+2023,Poland,Chocolate,Cocoa and chocolate,140.80
+2022,Poland,Chocolate,Cocoa and chocolate,136.20
+2021,Poland,Chocolate,Cocoa and chocolate,100.60
+2020,Poland,Chocolate,Cocoa and chocolate,72.10
+2019,Poland,Chocolate,Cocoa and chocolate,67.70
+2018,Poland,Chocolate,Cocoa and chocolate,74.80
+2017,Poland,Chocolate,Cocoa and chocolate,53.90
+2016,Poland,Chocolate,Cocoa and chocolate,36.80
+2015,Poland,Chocolate,Cocoa and chocolate,30.10
+2014,Poland,Chocolate,Cocoa and chocolate,28.50
+2013,Poland,Chocolate,Cocoa and chocolate,27.60
+2012,Poland,Chocolate,Cocoa and chocolate,22.30
+2011,Poland,Chocolate,Cocoa and chocolate,16.60
+2010,Poland,Chocolate,Cocoa and chocolate,16.80
+2023,Italy,Chocolate,Cocoa and chocolate,97.00
+2022,Italy,Chocolate,Cocoa and chocolate,103.80
+2021,Italy,Chocolate,Cocoa and chocolate,67.50
+2020,Italy,Chocolate,Cocoa and chocolate,58.70
+2019,Italy,Chocolate,Cocoa and chocolate,58.80
+2018,Italy,Chocolate,Cocoa and chocolate,51.00
+2017,Italy,Chocolate,Cocoa and chocolate,46.90
+2016,Italy,Chocolate,Cocoa and chocolate,41.10
+2015,Italy,Chocolate,Cocoa and chocolate,38.50
+2014,Italy,Chocolate,Cocoa and chocolate,41.20
+2013,Italy,Chocolate,Cocoa and chocolate,41.10
+2012,Italy,Chocolate,Cocoa and chocolate,31.20
+2011,Italy,Chocolate,Cocoa and chocolate,33.40
+2010,Italy,Chocolate,Cocoa and chocolate,24.80
+2023,Switzerland,Chocolate,Cocoa and chocolate,90.70
+2022,Switzerland,Chocolate,Cocoa and chocolate,81.50
+2021,Switzerland,Chocolate,Cocoa and chocolate,71.00
+2020,Switzerland,Chocolate,Cocoa and chocolate,59.00
+2019,Switzerland,Chocolate,Cocoa and chocolate,71.30
+2018,Switzerland,Chocolate,Cocoa and chocolate,66.90
+2017,Switzerland,Chocolate,Cocoa and chocolate,55.70
+2016,Switzerland,Chocolate,Cocoa and chocolate,63.10
+2015,Switzerland,Chocolate,Cocoa and chocolate,55.80
+2014,Switzerland,Chocolate,Cocoa and chocolate,57.60
+2013,Switzerland,Chocolate,Cocoa and chocolate,53.50
+2012,Switzerland,Chocolate,Cocoa and chocolate,46.90
+2011,Switzerland,Chocolate,Cocoa and chocolate,56.60
+2010,Switzerland,Chocolate,Cocoa and chocolate,47.60
+2023,Croatia,Chocolate,Cocoa and chocolate,65.80
+2022,Croatia,Chocolate,Cocoa and chocolate,32.10
+2021,Croatia,Chocolate,Cocoa and chocolate,15.90
+2020,Croatia,Chocolate,Cocoa and chocolate,4.70
+2019,Croatia,Chocolate,Cocoa and chocolate,2.10
+2018,Croatia,Chocolate,Cocoa and chocolate,1.90
+2017,Croatia,Chocolate,Cocoa and chocolate,1.60
+2016,Croatia,Chocolate,Cocoa and chocolate,1.60
+2015,Croatia,Chocolate,Cocoa and chocolate,1.30
+2014,Croatia,Chocolate,Cocoa and chocolate,1.60
+2013,Croatia,Chocolate,Cocoa and chocolate,1.50
+2012,Croatia,Chocolate,Cocoa and chocolate,1.40
+2011,Croatia,Chocolate,Cocoa and chocolate,1.30
+2010,Croatia,Chocolate,Cocoa and chocolate,1.90
+2023,Rest of world,Chocolate,Cocoa and chocolate,568.40
+2022,Rest of world,Chocolate,Cocoa and chocolate,518.30
+2021,Rest of world,Chocolate,Cocoa and chocolate,416.70
+2020,Rest of world,Chocolate,Cocoa and chocolate,312.00
+2019,Rest of world,Chocolate,Cocoa and chocolate,326.90
+2018,Rest of world,Chocolate,Cocoa and chocolate,306.50
+2017,Rest of world,Chocolate,Cocoa and chocolate,276.30
+2016,Rest of world,Chocolate,Cocoa and chocolate,278.80
+2015,Rest of world,Chocolate,Cocoa and chocolate,256.90
+2014,Rest of world,Chocolate,Cocoa and chocolate,252.50
+2013,Rest of world,Chocolate,Cocoa and chocolate,226.20
+2012,Rest of world,Chocolate,Cocoa and chocolate,213.90
+2011,Rest of world,Chocolate,Cocoa and chocolate,198.40
+2010,Rest of world,Chocolate,Cocoa and chocolate,164.10
